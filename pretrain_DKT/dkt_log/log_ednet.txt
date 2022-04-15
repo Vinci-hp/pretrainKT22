@@ -1,0 +1,1 @@
+epoch:    6, test_auc: 0.72449, time: 55.441 s
